@@ -37,6 +37,9 @@ tags:
 ## Collaborative Knowledge Management
 - [Obsidian, Taming a Collective Consciousness - TrustedSec](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness/)
 
+## Note-writing Systems
+- [Andy's working notes: Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)
+
 %% Hub footer: Please don't edit anything below this line %%
 
 # This note in GitHub
